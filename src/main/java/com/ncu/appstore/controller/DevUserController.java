@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * app-store-com.ncu.appstore.controller
- * created by LI LICHUNYAN at 2019/8/8
- */
+
 @Controller
 public class DevUserController extends BaseController{
     @Autowired

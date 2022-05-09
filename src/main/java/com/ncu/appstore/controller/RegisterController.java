@@ -17,10 +17,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * app-store-com.ncu.appstore.controller
- * created by LI LICHUNYAN at 2019/8/6
- */
+
 @Controller
 public class RegisterController extends BaseController {
     @Autowired

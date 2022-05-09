@@ -7,12 +7,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * @program: app-store
- * @description: 权限拦截器
- * @author: Leo
- * @create: 2019-08-11 22:15
- **/
+
 public class PermissionInterceptor implements HandlerInterceptor {
     private Object devUser;
     private Object backendUser;

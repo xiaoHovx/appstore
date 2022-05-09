@@ -14,12 +14,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-08 10:26
- **/
+
 public class AppInfoServiceTest extends BaseTestClass {
 
     @Autowired

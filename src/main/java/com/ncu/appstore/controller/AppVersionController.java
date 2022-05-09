@@ -24,12 +24,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.UUID;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-11 15:28
- **/
+
 @Controller
 @RequestMapping("appversion")
 public class AppVersionController extends BaseController {

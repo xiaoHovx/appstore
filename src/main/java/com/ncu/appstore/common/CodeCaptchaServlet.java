@@ -15,9 +15,7 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.Random;
 
-/**
- * Created by wly on 2018/4/17.
- */
+
 public class CodeCaptchaServlet extends HttpServlet {
 
     public static final String VERCODE_KEY = "VERCODE_KEY";

@@ -8,12 +8,7 @@ import com.ncu.appstore.pojo.AppInfo;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-07 14:03
- **/
+
 public interface AppInfoService {
     /**
      * 分页查询

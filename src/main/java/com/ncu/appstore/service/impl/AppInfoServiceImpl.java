@@ -19,12 +19,7 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.*;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-07 14:06
- **/
+
 @Service
 @Transactional(readOnly = true)
 public class AppInfoServiceImpl implements AppInfoService {

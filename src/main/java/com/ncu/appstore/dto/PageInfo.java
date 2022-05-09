@@ -3,12 +3,7 @@ package com.ncu.appstore.dto;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @program: app-store
- * @description: 分页数据传输对象
- * @author: Leo
- * @create: 2019-08-07 13:59
- **/
+
 public class PageInfo<T> implements Serializable {
     private int draw;
     private int recordsTotal;

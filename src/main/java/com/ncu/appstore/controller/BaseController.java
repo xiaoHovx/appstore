@@ -12,10 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- * app-store-com.ncu.qppstore.common
- * created by LI LICHUNYAN at 2019/8/7
- */
+
 @Controller
 public class BaseController {
     /**

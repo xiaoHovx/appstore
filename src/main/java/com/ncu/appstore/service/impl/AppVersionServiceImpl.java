@@ -12,12 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-11 14:36
- **/
+
 @Service
 public class AppVersionServiceImpl implements AppVersionService {
     @Autowired

@@ -1,12 +1,7 @@
 package com.ncu.appstore.dto;
 
 import java.io.Serializable;
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-07 16:11
- **/
+
 public class BaseResult implements Serializable {
     public static final int STATUS_SUCCESS = 200;
     public static final int STATUS_FAIL = 500;

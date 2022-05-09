@@ -15,12 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-11 18:58
- **/
+
 @Controller
 public class DownloadController extends BaseController {
     @Autowired

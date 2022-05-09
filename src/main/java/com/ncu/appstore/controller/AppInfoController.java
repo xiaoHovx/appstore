@@ -30,12 +30,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-07 11:06
- **/
+
 @Controller
 @RequestMapping("app")
 public class AppInfoController extends BaseController {

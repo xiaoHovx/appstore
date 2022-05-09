@@ -9,12 +9,7 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-08 17:13
- **/
+
 @Service
 public class DataDictionaryServiceImpl implements DataDictionaryService {
     @Autowired

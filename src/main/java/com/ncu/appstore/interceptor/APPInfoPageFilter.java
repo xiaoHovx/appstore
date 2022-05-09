@@ -11,9 +11,7 @@ import javax.servlet.*;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Create by CZM on 2019/8/9
- */
+
 public class APPInfoPageFilter implements Filter {
 
     @Override

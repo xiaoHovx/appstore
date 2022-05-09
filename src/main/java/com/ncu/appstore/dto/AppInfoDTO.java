@@ -9,12 +9,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-08 14:11
- **/
+
 public class AppInfoDTO implements Serializable {
     private Long id;//主键(APP信息表)
 

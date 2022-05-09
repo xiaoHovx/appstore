@@ -6,10 +6,7 @@ import com.ncu.appstore.service.BackendUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * app-store-com.ncu.appstore.service.impl
- * created by LI LICHUNYAN at 2019/8/9
- */
+
 @Service
 public class BackendUserServiceImpl implements BackendUserService {
     @Autowired

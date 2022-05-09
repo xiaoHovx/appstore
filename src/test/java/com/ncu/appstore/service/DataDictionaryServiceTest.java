@@ -7,12 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-08 17:17
- **/
+
 public class DataDictionaryServiceTest extends BaseTestClass {
     @Autowired
     private DataDictionaryService dataDictionaryService;

@@ -9,10 +9,7 @@ import javax.servlet.*;
 import java.io.IOException;
 import java.util.HashMap;
 
-/**
- * app-store-com.ncu.appstore.interceptor
- * created by LI LICHUNYAN at 2019/8/12
- */
+
 public class SearchFilter implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {

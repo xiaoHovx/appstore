@@ -4,12 +4,7 @@ import com.ncu.appstore.pojo.AppCategory;
 
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-08 15:08
- **/
+
 public interface AppCategoryService {
     /**
      * 通过分类码获取分类信息

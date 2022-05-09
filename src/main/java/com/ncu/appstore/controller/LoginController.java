@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 
-/**
- * app-store-com.ncu.appstore.controller
- * created by LI LICHUNYAN at 2019/8/6
- */
+
 @Controller
 public class LoginController extends BaseController {
     @Autowired

@@ -12,12 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * @program: my-shop
- * @description: 上传控制器
- * @author: Leo
- * @create: 2019-06-12 17:29
- **/
+
 @Controller
 @RequestMapping("app")
 public class UploadController extends BaseController{

@@ -7,12 +7,7 @@ import com.ncu.appstore.service.DevUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-06 15:36
- **/
+
 @Service
 public class DevUserServiceImpl implements DevUserService {
     @Autowired

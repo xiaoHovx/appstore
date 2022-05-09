@@ -10,12 +10,7 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.List;
 
-/**
- * @program: app-store
- * @description:
- * @author: Leo
- * @create: 2019-08-08 14:46
- **/
+
 @Service
 @Transactional
 public class AppCategoryServiceImpl implements AppCategoryService {
